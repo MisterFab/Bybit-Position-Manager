@@ -1,4 +1,4 @@
-# Bybit Clients Position Manager
+# Bybit Position Manager
 A client position manager for Bybit, built using Vue.js with MongoDB as the database storage solution.
 
 ## **Features**:
